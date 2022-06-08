@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+h2{
+    font-size: 36px;
+    color: goldenrod;
+    text-align: center;
+}
+
+.btn{
+    border: 10px solid black;
+    border-radius: 25px;
+    font-family: sans-serif;
+    font-size: 20px;
+    width: 25%;
+}
+
+#div1{
+    border: 50px solid black;
+}
